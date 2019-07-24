@@ -1,0 +1,142 @@
+
+U.S. Department of Justice
+Attorney Work Product // May Contain Material Protected Under-Fed. R. Crim. P. 6(e)
+Report On The Investigation Into Russian Interference In The 2016 Presidential Election
+Volume II of II
+Special Counsel Robert S. Mueller, III
+Submitted Pursuant to 28 C.F.R. § 600.8(c)
+Washington, D.C,
+March 2019
+U.S. Department of Justice
+Attorney Work Product // May Contain-Material-Protected Under-Fed.-R-GrimT'P.'6(e)
+TABLE OF CONTENTS - VOLUME II
+Introduction to Volume II.............................................................1
+Executive Summary to Volume II........................................................3
+I.	Background Legal And Evidentiary Principles........................................9
+A.	Legal Framework of Obstruction of Justice..................................9
+B.	Investigative and Evidentiary Considerations..............................12
+II.	Factual Results Of The Obstruction Investigation.................................15
+A.	The	Campaign’s Response to Reports About Russian Support for Trump........15
+1.	Press Reports Allege Links Between the Trump Campaign and Russia.......16
+2.	The Trump Campaign Reacts to WikiLeaks’s Release of Hacked Emails.......17
+3.	The Trump Campaign Reacts to Allegations That Russia was Seeking to
+Aid Candidate Trump.....................................................18
+4.	After the Election, Trump Continues to Deny Any Contacts or
+Connections with Russia or That Russia Aided his Election...............21
+B.	The President’s Conduct Concerning the Investigation of Michael Flynn.....24
+1.	Incoming National Security Advisor Flynn Discusses Sanctions on Russia
+with Russian Ambassador Sergey Kislyak.................................24
+2.	President-Elect Trump is Briefed on the Intelligence Community’s
+Assessment of Russian Interference in the Election and Congress Opens Election-Interference Investigations...................................27
+3.	Flynn Makes False Statements About his Communications with Kislyak to
+Incoming Administration Officials, the Media, and the FBI..............29
+4.	DOJ Officials Notify the White House of Their Concerns About Flynn.....31
+5.	McGahn has a Follow-Up Meeting About Flynn with Yates; President
+Trump has Dinner with FBI Director Comey...............................32
+6.	Flynn’s Resignation....................................................36
+7.	The President Discusses Flynn with FBI Director Comey..................38
+8.	The Media Raises Questions About the President’s Delay in Terminating
+Flynn..................................................................41
+9.	The President Attempts to Have K.T. McFarland Create a Witness
+Statement Denying that he Directed Flynn’s Discussions with Kislyak....42
+C.	The President’s Reaction to Public Confirmation of the FBI’s Russia
+Investigation...............................................................48
+1.	Attorney General Sessions Recuses From the Russia Investigation........48
+i
+U.S. Department of Justice
+Attorney1 Work Product // May Contain Material Protected Under Fed. R. Crim. P. 6(e)
+2.	FBI Director Comey Publicly Confirms the Existence of the Russia
+Investigation in Testimony Before HPSCI....................................52
+3.	The President Asks Intelligence Community Leaders to Make Public
+Statements that he had No Connection to Russia.............................55
+4.	The President Asks Comey to “Lift the Cloud” Created by the Russia
+Investigation..............................................................57
+D.	Events Leading Up To and Surrounding the Termination of FBI Director
+Comey..........................................................................62
+1.	Comey Testifies Before the Senate Judiciary Committee and Declines to
+Answer Questions About Whether the President	is Under Investigation.....62
+2.	The President Makes the Decision to Terminate Comey........................64
+E.	The President’s Efforts to Remove the Special Counsel.........................77
+1.	The Appointment of the Special Counsel and the President’s Reaction........78
+2.	The President Asserts that the Special Counsel has Conflicts of Interest...80
+3.	The Press Reports that the President is Being Investigated for Obstruction
+of Justice and the President Directs the White House Counsel to Flave the
+Special Counsel Removed..................................................  84
+F.	The President’s Efforts to Curtail the Special Counsel Investigation..........90
+1.	The President Asks Corey Lewandowski to Deliver a Message to Sessions
+to Curtail the Special Counsel Investigation...............................90
+2.	The President Follows Up with Lewandowski..................................92
+3.	The President Publicly Criticizes Sessions in a New York Times Interview...93
+4.	The President Orders Priebus to Demand Sessions’s Resignation..............94
+G.	The President’s Efforts to Prevent Disclosure of Emails About the June 9,
+2016 Meeting Between Russians and Senior Campaign Officials....................98
+1.	The President Learns About the Existence of Emails Concerning the June
+9,	2016 Trump Tower Meeting...............................................98
+2.	The President Directs Communications Staff Not to Publicly Disclose
+Information About the June 9 Meeting......................................100
+3.	The President Directs Trump Jr.’s Response to Press Inquiries About the
+June 9 Meeting............................................................101
+4.	The Media Reports on the June 9, 2016 Meeting...........................  103
+H.	The President’s Further Efforts to Have the Attorney General Take Over
+the Investigation...........................................................  107
+1.	The President Again Seeks to Have Sessions Reverse his Recusal.............107
+2.	Additional Efforts to Have Sessions Unrecuse or Direct Investigations
+Covered by his Recusal....................................................109
+ii
+U.S. Department of Justice
+Attorney Work Product // May Contain Material Protected Under Fed. R. Crim. P. 6(e)
+I. The President Orders McGahn to Deny that the President Tried to Fire the
+Special Counsel..................................................................113
+1. The Press Reports that the President Tried to Fire the Special Counsel.......113
+HOM
+2.	The President Seeks to Have McGahn Dispute the Press Reports.................
+J.	The President’s Conduct Towards Flynn, Manafort,
+1. Conduct Directed at Michael Flynn..........................................
+114
+120
+120
+2.	Conduct Directed at Paul Manafort........................................122
+IHarm to Ongoing Matter
+K.	The President’s Conduct Involving Michael Cohen.................................134
+1. Candidate Trump’s Awareness of and Involvement in the Trump Tower
+Moscow Project.........................................................134
+2.	Cohen Determines to Adhere to a “Party Line” Distancing Candidate
+Trump From Russia......................................................138
+3.	Cohen Submits False Statements to Congress Minimizing the Trump
+Tower Moscow Project in Accordance with the Party Line.................139
+4.	The President Sends Messages of Support to Cohen......................144
+5.	The President’s Conduct After Cohen Began Cooperating with the
+Government.............................................................148
+L.	Overarching Factual Issues
+156
+III.	Legal Defenses To The Application Of Ob struck on-Of-Justice Statutes To The
+President.................................................................159
+A.	Statutory Defenses to the Application of Obstruction-Of-Justice Provisions
+to the Conduct Under Investigation...............................................160
+1.	The Text of Section 1512(c)(2) Prohibits a Broad Range of Obstructive
+Acts.........................................................................160
+2.	Judicial Decisions Support a Broad Reading of Section 1512(c)(2)...........162
+3.	The Legislative History of Section 1512(c)(2) Does Not Justify Narrowing
+Tts Text.....................................................................164
+4.	General Principles of Statutory Construction Do Not Suggest That Section
+1512(c)(2) is Inapplicable to the Conduct in this Investigation..............165
+5.	Other Obstruction Statutes Might Apply to the Conduct in this
+Investigation................................................................167
+B.	Constitutional Defenses to Applying Obstruction-Of-Justice Statutes to
+Presidential Conduct.............................................................168
+1. The Requirement of a Clear Statement to Apply Statutes to Presidential
+Conduct Does Not Limit the Obstruction Statutes...............................169
+iii
+U.S. Department of Justice
+Attorney-Work Product // May Contain Material Protected Under Fed. R. Crim. P. 6(e)
+2.	Separation-of-Powers Principles Support the Conclusion that Congress
+May Validly Prohibit Corrupt Obstructive Acts Carried Out Through the President’s Official Powers..............................................171
+a.	The Supreme Court’s Separation-of-Powers Balancing Test Applies In
+This Context..........................................................172
+b.	The Effect of Obstruction-of-Justice Statutes on the President’s
+Capacity to Perform His Article II Responsibilities is Limited........173
+c.	Congress Has Power to Protect Congressional, Grand Jury, and Judicial
+Proceedings Against Corrupt Acts from Any Source......................176
+3.	Ascertaining Whether the President Violated the Obstruction Statutes
+Would Not Chill his Performance of his Article II Duties.................178
+IV.	Conclusion........................................................................182

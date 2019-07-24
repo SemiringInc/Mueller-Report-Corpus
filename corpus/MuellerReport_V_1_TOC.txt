@@ -1,0 +1,208 @@
+U.S. Department of Justice
+Attorney Work Product // May Contain Material Protected Under Fed. R. Crim. P. 6(c)
+Report On The Investigation Into Russian Interference In The 2016 Presidential Election
+Volume I of II
+Special Counsel Robert S. Mueller, III
+Submitted Pursuant to 28 C.F.R. § 600.8(c)
+Washington, D.C.
+March 2019
+U.S. Department of Justice
+Attornoy^Work Product // May Contain Material Protected Under Fed. R. Crim. P. 6(e)
+U.S. Department of Justice
+Attorney Work Product // May Contain Material Protected Underfed r-R.-Crim. P. 6(c)
+TABLE OF CONTENTS - VOLUME I
+Introduction to Volume 1.............................................................1
+Executive Summary to Volume 1........................................................4
+I.	The Special Counsel’s Investigation...............................................11
+II.	Russian “Active Measures” Social Media Campaign.................................14
+A.	Structure of the Internet Research Agency................................15
+B.	Funding and Oversight from Concord and Prigozhin.........................16
+C.	The IRA Targets U.S. Elections...........................................19
+1.	The IRA Ramps Up U.S. Operations As Early As	2014.....................19
+2.	U.S. Operations Through IRA-Controlled Social Media Accounts..........22
+3.	U.S. Operations Through Facebook......................................24
+4.	U.S. Operations Through Twitter.......................................26
+a.	Individualized Accounts............................................26
+b.	IRA Botnet Activities..............................................28
+5.	U.S. Operations Involving Political Rallies...........................29
+6.	Targeting and Recruitment of U.S. Persons..............................31
+7.	Interactions and Contacts with the Trump Campaign.....................33
+a.	Trump Campaign Promotion of IRA Political Materials................33
+b.	Contact with Trump Campaign Officials in Connection to Rallies.....35
+III.	Russian Hacking and Dumping Operations.........................................36
+A.	GRU Hacking Directed at the Clinton Campaign.............................36
+1. GRU Units Target the Clinton Campaign..................................36
+2.	Intrusions into the DCCC and DNC Networks.............................38
+a.	Initial Access.....................................................38
+b.	Implantation of Malware on DCCC and DNC Networks...................38
+c.	Theft of Documents from DNC and DCCC Networks......................40
+B.	Dissemination of the Hacked Materials....................................41
+1.	DCLeaks............................................................   41
+2.	Guccifer 2.0..........................................................42
+3.	Use of WikiLeaks......................................................44
+a.	WikiLeaks’s Expressed Opposition Toward the Clinton Campaign.......44
+b.	WikiLeaks’s First Contact with Guccifer 2.0 and DCLeaks............45
+i
+U.S. Department of Justice
+Attorney Work Product // May Contain Material-Protected Under Fed. R. Crim. P. 6(c)
+c.	The GRU’s Transfer of Stolen Materials to WikiLeaks..................45
+d.	WikiLeaks Statements Dissembling About the Source of Stolen
+Materials...........................................................48
+C.	Additional GRU Cyber Operations............................................49
+1.	Summer and Fall 2016 Operations Targeting Democrat-Linked Victims.......49
+2.	Intrusions Targeting the Administration of U.S. Elections...............50
+D.	Trump Campaign and the Dissemination of Hacked Materials...................51
+51
+a.	Background....................................................51
+b.	Contacts with the Campaign about WikiLeaks....................52
+(Harm to Ongoing Matter
+d.	WikiLeaks’s October 7, 2016 Release of Stolen Podesta Emails........58
+e.	Donald Trump Jr. Interaction with WikiLeaks.........................59
+2.	Other Potential Campaign Interest in Russian Hacked Materials..........61
+a.	Henry Oknyansky (a/k/a Henry Greenberg).............................61
+b.	Campaign Efforts to Obtain Deleted Clinton Emails...................62
+IV.	Russian Government Links To And Contacts With The Trump Campaign................66
+A.	Campaign Period (September 2015 - November 8, 2016).......................66
+1.	Trump Tower Moscow Project.............................................67
+a.	Trump Tower Moscow Venture with the Crocus Group (2013-2014)........67
+b.	Communications with I.C. Expert Investment Company and Giorgi
+Rtskhiladze (Summer and Fall 2015).................................69
+c.	Letter of Intent and Contacts to Russian Government (October 2015-
+January 2016)......................................................70
+i.	Trump Signs the Letter of Intent on behalf of the Trump Organization.... 70
+ji. Post-LOI Contacts with Individuals in Russia...................72
+d.	Discussions about Russia Travel by Michael Cohen or Candidate Trump
+(December 2015-June 2016)..........................................76
+i.	Sater’s Overtures to Cohen to Travel to Russia..................76
+ii.	Candidate Trump’s Opportunities to Travel to Russia............78
+2.	George Papadopoulos....................................................80
+a.	Origins of Campaign Work............................................81
+b.	Initial Russia-Related Contacts.....................................82
+c.	March 31 Foreign Policy Team Meeting................................85
+ii
+U.S. Department of Justice
+Attorney Work Product// May Contain Material Protected Under Fed-. R. Crim. P. 6(o)
+d.	George Papadopoulos Learns That Russia Has “Dirt” in the Form of
+Clinton Emails...................................................86
+e.	Russia-Related Communications With The Campaign....................89
+f.	Trump Campaign Knowledge of “Dirt”.................................93
+g.	Additional George Papadopoulos Contact.............................94
+3.	Carter Page...........................................................95
+a.	Background.........................................................96
+b.	Origins of and Early Campaign Work.................................97
+c.	Carter Page’s July 2016 Trip To Moscow.............................98
+d.	Later Campaign Work and Removal from the Campaign.................102
+4.	Dimitri Simes and the Center for the National Interest...............103
+a.	CNI and Dimitri Simes Connect with the Trump Campaign.............103
+b.	National Interest Hosts a Foreign Policy Speech at the Mayflower Hotel
+..............................................................  105
+c.	Jeff Sessions’s Post-Speech Interactions with CNI................107
+d.	Jared Kushner’s Continuing Contacts with Simes...................108
+5.	June 9, 2016 Meeting at Trump Tower................................  110
+a.	Setting Up the June 9 Meeting.....................................110
+i.	Outreach to Donald Trump Jr...................................110
+ii.	Awareness of the Meeting Within the Campaign.................114
+b.	The Events of June 9, 2016.......................................116
+i.	Arrangements for the Meeting..................................116
+ii.	Conduct of the Meeting.......................................117
+c.	Post-June 9 Events...............................................120
+6.	Events at the Republican National Convention.........................123
+a.	Ambassador Kislyak’s Encounters with Senator Sessions and J.D.
+Gordon the Week of the RNC.......................................123
+b.	Change to Republican Party Platform...............................124
+7.	Post-Convention Contacts with Kislyak..............................  127
+a.	Ambassador Kislyak Invites J.D. Gordon to Breakfast at the
+Ambassador’s Residence..........................................127
+b.	Senator Sessions’s September 2016 Meeting with Ambassador Kislyak.127
+8.	Paul Manafort........................................................129
+a. Paul Manafort’s Ties to Russia and Ukraine........................131
+iii
+U.S. Department of Justice
+Attorney Work Product // May Contain Material Protected Under Fed. R. Crim. P-.-6(-e-)
+i.	Oleg Deripaska Consulting Work.................................131
+ii.	Political Consulting Work.....................................132
+iii.	Konstantin Kilimnik..........................................132
+b.	Contacts during Paul Manafort’s Time with the Trump Campaign..........134
+i.	Paul Manafort Joins the Campaign..................................134
+ii.	Paul Manafort’s Campaign-Period Contacts......................135
+iii.	Paul Manafort’s Two Campaign-Period Meetings with Konstantin
+Kilimnik in the United States..................................138
+c.	Post-Resignation Activities........................................141
+B.	Post-Election and Transition-Period Contacts..............................144
+1.	Immediate Post-Election Activity.......................................144
+a.	Outreach from the Russian Government...............................145
+b.	High-Level Encouragement of Contacts through Alternative Channels.....146
+2.	Kirill Dmitriev’s Transition-Era Outreach to the Incoming Administration.147
+a.	Background.........................................................147
+b.	Kirill Dmitriev’s Post-Election Contacts With the Incoming
+Administration ...................................................149
+c.	Erik Prince and Kirill Dmitriev Meet in the Seychelles.............151
+i.	George Nader and Erik Prince Arrange Seychelles Meeting with
+Dmitriev.......................................................151
+ii.	The Seychelles Meetings.......................................153
+iii.	Erik Prince’s Meeting with Steve Bannon after the Seychelles Trip.... 155
+d.	Kirill Dmitriev’s Post-Election Contact with Rick Gerson Regarding
+U.S.-Russia Relations.............................................156
+3.	Ambassador Kislyak’s Meeting with Jared Kushner and Michael Flynn in
+Trump Tower Following the Election.....................................159
+4.	Jared Kushner’s Meeting with Sergey Gorkov............................161
+5.	Petr Aven’s Outreach Efforts to the Transition Team...................163
+6.	Carter Page Contact with Deputy Prime Minister Arkady Dvorkovich......166
+7.	Contacts With and Through Michael T. Flynn............................167
+a.	United Nations Vote on Israeli Settlements.........................167
+b.	U.S. Sanctions Against Russia......................................168
+V.	Prosecution and Declination Decisions...........................................174
+A. Russian “Active Measures” Social Media Campaign...........................174
+U.S. Department of Justice
+Attorney \Vork-P-fedtret // May Contain Material Protected Under Fed. R. Grim. P. 6(c)
+175
+B. Russian Hacking and Dumping Operations
+1. Section 1030 Computer-Intrusion Conspiracy...........................175
+a. Background........................................................175
+b. Charging Decision As to
+Harm to Ongoing Matter
+2.	Potential Section 1030 Violation By	................179
+C.	Russian Government Outreach and Contacts.................................180
+1. Potential Coordination: Conspiracy and Collusion..........................
+180
+2.	Potential Coordination: Foreign Agent Statutes (FARA and 18 U.S.C. § 951). 181
+a.	Governing Law.....................................................181
+b.	Application.....................................................  182
+3.	Campaign Finance.................................................... 183
+a.	Overview Of Governing Law.........................................184
+b.	Application to June 9 Trump Tower Meeting.........................185
+i.	Thing-of-Value Element........................................186
+ii.	Willfulness..................................................187
+4.
+c.
+iii. Difficulties in Valuing Promised Information Application to WikiLeaks
+i. uestions Over
+HOM
+lHarm to Ongoing Matter
+ii.	Willfulness.................
+iii.	Constitutional Considerations
+iv.	Analysis
+False Statements and Obstruction of the Investigation
+HOM
+188
+188
+189
+190
+190
+190
+191
+a.	Overview Of Governing Law...........................................191
+b.	Application to Certain Individuals.................................192
+i.	George Papadopoulos...........................................  192
+ii.	 194
+iii.	Michael Flynn.................................................194
+iv.	Michael Cohen.................................................195
+196
+vi. Jeff Sessions.....................................................197
+vii. Others Interviewed During the Investigation.........................
+198
+v
+U.S. Department of Justice
+Attorney Work Product // May Contain Material Protected Under Fed. R. Crim. P. 6(c)
+U.S. Department of Justice
+Attorney Work Product // May Contain Material Protected Under Fed. R. Crim. P. 6(c)
