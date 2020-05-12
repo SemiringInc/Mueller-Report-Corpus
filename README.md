@@ -1,10 +1,10 @@
 # Mueller Report and Analytics
 
-[Damir Cavar], July 2019
+[Damir Cavar], [Semiring] Inc. July 2019
 
 Created: 04/18/2019
 
-Last Change: 07/24/2019
+Last Change: 05/12/2020
 
 
 Please cite this repo and acknowledge the work by the team. Like it, if you use it, etc. Let us know what to correct by raising an issue.
@@ -66,3 +66,4 @@ The <SECTION> and <FN#> tags allow us to filter these paragraphs when running an
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [Semiring Inc.]: https://semiring.com "Semiring Inc."
 [The NLP-Lab]: https://nlp-lab.org/ "The NLP-Lab"
+[Semiring]: https://semiring.com "Semiring Inc."
